@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikitakorobkov/CLionProjects/labBridges/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+cstdlib
+-
+ctime
+-
+string
+-
+sstream
+-
+
